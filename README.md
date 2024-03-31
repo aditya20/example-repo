@@ -1,2 +1,2 @@
-# example-repo
+# example-repos
 First real repository!!!
